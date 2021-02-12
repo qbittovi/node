@@ -1,4 +1,4 @@
-const frutas = ["banana", "banana", "pera", "banana"];
+const frutas = ["banana", "banana", "pera"];
 
 frutas.forEach((fruta) => {
   console.count(fruta);
